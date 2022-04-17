@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "ts-toolbelt": "^9.6.0"
   }
 }
